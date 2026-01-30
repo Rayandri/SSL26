@@ -10,3 +10,4 @@ fashion-clip
 lime
 shap
 requests
+scikit-image
