@@ -11,3 +11,4 @@ lime
 shap
 requests
 scikit-image
+opencv-python
